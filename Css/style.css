@@ -1,0 +1,52 @@
+/*
+    Projeto: Introdução ao desenvolvimento de software
+    e-mail: levinicolas2000@gmail.com
+    Desenvolvedor: Levi Nicola Santos
+    Versão: 1.0
+    Data: 22/03/2024
+*/
+/*Reset CSS*/
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+body{
+    font-family: Kdam Thmor Pro, Arial, Helvetica, sans-serif;
+    color: rgb(31, 31, 31);    
+    background-color: #7fffd4;
+}
+.sign-in{
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.logo{
+    margin: 200px;
+    text-align: center;
+}
+.banner{
+    background-color: #6fe1bb;
+    text-align: center;
+}
+h1.title{
+    font-weight: bold;
+}
+.services{
+    background-color: #5cba9b;
+    text-align: center;
+}
+.team{
+    background-color: #49937b;
+    text-align: center;
+}
+.location{
+    background-color: #3c7966;   
+    text-align: center;
+}
+footer{
+    background-color: #306051;
+    text-align: center;
+}
